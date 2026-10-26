@@ -1,26 +1,16 @@
-# Habblaud no meu ambiente de desenvolvimento — Gabriel
+# Minha experiência com o Habblaud
 
-Sou Gabriel e utilizo o Habblaud no meu ambiente local de desenvolvimento com agentes de IA. Este fork faz parte do meu portfólio de estudos e uso de ferramentas open source.
+Sou o Gabriel. Comecei a usar o Habblaud no meu Mac para acompanhar os agentes que uso nos meus projetos. É a minha “salinha de agentes”: uma forma visual de ver o que está acontecendo enquanto trabalho.
 
-## Por que uso esta ferramenta
+Gosto da ideia de reunir os projetos e as atividades em um lugar só. Também fica mais fácil mostrar esse lado do meu trabalho para outras pessoas, porque elas conseguem visualizar os agentes e o andamento das tarefas.
 
-O Habblaud traz uma representação visual das sessões de agentes, organizadas por projeto. No meu fluxo de trabalho, ele serve como um painel para acompanhar essa atividade e tornar mais fácil apresentar como trabalho com ferramentas de IA.
+Criei este fork para guardar uma referência da ferramenta que uso e ter um espaço para registrar meus estudos e possíveis adaptações. Por enquanto, minha contribuição aqui é esta apresentação do meu uso; as funcionalidades e as demonstrações abaixo são do projeto original.
 
-O valor dessa visualização está em reunir o contexto dos projetos em um escritório virtual: posso acompanhar os estados exibidos dos agentes e consultar suas atividades. A ferramenta complementa o acompanhamento do desenvolvimento; a revisão do código e a validação das entregas continuam sendo etapas necessárias.
+## Sobre o projeto original
 
-## Minha participação neste fork
+O Habblaud foi criado por **Márcio Junior**, com a participação da comunidade. Você encontra o projeto em [marmottajr/habblaud](https://github.com/marmottajr/habblaud).
 
-- Uso da ferramenta no meu ambiente local.
-- Organização deste repositório e documentação do contexto de uso no meu portfólio.
-- Registro futuro de adaptações, com descrição do problema, da mudança e de como ela foi verificada.
-
-Esta apresentação documenta minha experiência de uso. Não apresenta o código original como uma criação minha nem atribui a esta ferramenta resultados comerciais ou ganhos de produtividade medidos.
-
-## Créditos
-
-Projeto original: **Habblaud**, de **Márcio Junior** ([marmottajr/habblaud](https://github.com/marmottajr/habblaud)), com seus contribuidores. O aviso de copyright e a [licença MIT](LICENSE) original estão preservados.
-
-As imagens e demonstrações da documentação original abaixo pertencem ao material do projeto original; não são evidências de projetos desenvolvidos por mim.
+Mantive a documentação original abaixo e a [licença MIT](LICENSE), com os créditos de quem desenvolveu a ferramenta.
 
 ---
 
