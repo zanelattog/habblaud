@@ -1,8 +1,24 @@
-# Minha salinha de agentes
+# Minha salinha de agentes com o Codex
 
-Uso o Habblaud no meu Mac para acompanhar os agentes nos meus projetos. Deixei essa cópia aqui para compartilhar a ferramenta e registrar o que eu for adaptando.
+Uso o Codex nos meus projetos e o Habblaud é a minha “salinha de agentes” no Mac. Gosto de poder acompanhar as atividades de um jeito visual e ver os projetos organizados em salas.
 
-Projeto original de **Márcio Junior**: [Habblaud](https://github.com/marmottajr/habblaud). Créditos e [licença MIT](LICENSE) mantidos.
+Deixei este fork aqui para compartilhar a ferramenta que faz parte do meu ambiente de desenvolvimento.
+
+## Como é a ferramenta
+
+As imagens abaixo são demonstrações do projeto original, com dados fictícios. Servem para mostrar a interface; não são capturas dos meus projetos ou da minha configuração com o Codex.
+
+![Visão geral do escritório virtual do Habblaud em modo demonstração](docs/screenshots/overview.png)
+
+*As salas ajudam a visualizar os projetos e a atividade dos agentes.*
+
+![Painel de detalhes de um agente na demonstração original do Habblaud](docs/screenshots/agent-details.png)
+
+*O painel reúne informações sobre a atividade e as tarefas de um agente.*
+
+---
+
+Habblaud foi criado por **Márcio Junior**, com seus contribuidores. [Projeto original](https://github.com/marmottajr/habblaud) · [Licença MIT](LICENSE). Código e imagens de demonstração mantêm os créditos originais.
 
 <details>
 <summary>Documentação original do Habblaud</summary>
