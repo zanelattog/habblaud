@@ -1,3 +1,31 @@
+# Habblaud no meu ambiente de desenvolvimento — Gabriel
+
+Sou Gabriel e utilizo o Habblaud no meu ambiente local de desenvolvimento com agentes de IA. Este fork faz parte do meu portfólio de estudos e uso de ferramentas open source.
+
+## Por que uso esta ferramenta
+
+O Habblaud traz uma representação visual das sessões de agentes, organizadas por projeto. No meu fluxo de trabalho, ele serve como um painel para acompanhar essa atividade e tornar mais fácil apresentar como trabalho com ferramentas de IA.
+
+O valor dessa visualização está em reunir o contexto dos projetos em um escritório virtual: posso acompanhar os estados exibidos dos agentes e consultar suas atividades. A ferramenta complementa o acompanhamento do desenvolvimento; a revisão do código e a validação das entregas continuam sendo etapas necessárias.
+
+## Minha participação neste fork
+
+- Uso da ferramenta no meu ambiente local.
+- Organização deste repositório e documentação do contexto de uso no meu portfólio.
+- Registro futuro de adaptações, com descrição do problema, da mudança e de como ela foi verificada.
+
+Esta apresentação documenta minha experiência de uso. Não apresenta o código original como uma criação minha nem atribui a esta ferramenta resultados comerciais ou ganhos de produtividade medidos.
+
+## Créditos
+
+Projeto original: **Habblaud**, de **Márcio Junior** ([marmottajr/habblaud](https://github.com/marmottajr/habblaud)), com seus contribuidores. O aviso de copyright e a [licença MIT](LICENSE) original estão preservados.
+
+As imagens e demonstrações da documentação original abaixo pertencem ao material do projeto original; não são evidências de projetos desenvolvidos por mim.
+
+---
+
+## Documentação original do Habblaud
+
 <p align="center">
   <img src="client/public/assets/brand/logo-mark@4x.png" width="96" alt="Habblaud logo: a small pixel-art building" />
 </p>
