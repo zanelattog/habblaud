@@ -1,20 +1,11 @@
-# Minha experiência com o Habblaud
+# Minha salinha de agentes
 
-Sou o Gabriel. Comecei a usar o Habblaud no meu Mac para acompanhar os agentes que uso nos meus projetos. É a minha “salinha de agentes”: uma forma visual de ver o que está acontecendo enquanto trabalho.
+Uso o Habblaud no meu Mac para acompanhar os agentes nos meus projetos. Deixei essa cópia aqui para compartilhar a ferramenta e registrar o que eu for adaptando.
 
-Gosto da ideia de reunir os projetos e as atividades em um lugar só. Também fica mais fácil mostrar esse lado do meu trabalho para outras pessoas, porque elas conseguem visualizar os agentes e o andamento das tarefas.
+Projeto original de **Márcio Junior**: [Habblaud](https://github.com/marmottajr/habblaud). Créditos e [licença MIT](LICENSE) mantidos.
 
-Criei este fork para guardar uma referência da ferramenta que uso e ter um espaço para registrar meus estudos e possíveis adaptações. Por enquanto, minha contribuição aqui é esta apresentação do meu uso; as funcionalidades e as demonstrações abaixo são do projeto original.
-
-## Sobre o projeto original
-
-O Habblaud foi criado por **Márcio Junior**, com a participação da comunidade. Você encontra o projeto em [marmottajr/habblaud](https://github.com/marmottajr/habblaud).
-
-Mantive a documentação original abaixo e a [licença MIT](LICENSE), com os créditos de quem desenvolveu a ferramenta.
-
----
-
-## Documentação original do Habblaud
+<details>
+<summary>Documentação original do Habblaud</summary>
 
 <p align="center">
   <img src="client/public/assets/brand/logo-mark@4x.png" width="96" alt="Habblaud logo: a small pixel-art building" />
@@ -1304,3 +1295,5 @@ forgotten three days after the agent leaves.
 <p align="center">
   Made with ☕ and lots of <a href="https://code.claude.com">Claude Code</a> agents.
 </p>
+
+</details>
